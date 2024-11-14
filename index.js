@@ -1,3 +1,5 @@
+
+1)JDBC-SELECT---->curl https://cse-f.github.io/wt/jdbc/1.js
 1)JQUERY-EVENTS(mouseUP,Down,enter,leave,focus)---->curl https://cse-f.github.io/wt/jq/1.js
 1)JQUERY-ACTIONS(show,hide,toggle)---->curl https://cse-f.github.io/wt/jq/2.js
 1)JQUERY-SLIDEMETHODS---->curl https://cse-f.github.io/wt/jq/4.js
