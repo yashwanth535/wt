@@ -5,7 +5,7 @@ class preparedStatement{
 	public static void main(String args[]) {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			Connection conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","yashwanth","cvrbw");
+			Connection conn=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","system","cvr1234");
 			PreparedStatement pstmt =conn.prepareStatement("insert into student values(?,?,?)");
 			pstmt.setString(1,"ramesh");
 			pstmt.setInt(2,21);
