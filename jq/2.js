@@ -1,4 +1,4 @@
-2.jquery effects--show,hide,toggle
+<!-- 2.jquery effects--show,hide,toggle -->
 
 
 <!DOCTYPE html>
