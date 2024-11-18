@@ -1,16 +1,8 @@
 //fibonacci series
 
-fib(100);
-function fib(n){
-  var a=0;
-  var b=1;
-  var c=a+b;
-
-  while(c<=n){
-    console.log(c);
-    if(c>=n)return;
-    a=b;
-    b=c;
-    c=a+b;
-  }
+function fib(n,a=0,b=1){
+  if(a>n)return;
+  console.log(a);
+  fib(n,b,a+b);
 }
+fib(100);
