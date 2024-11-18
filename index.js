@@ -1,5 +1,10 @@
+JS-fibonacci series----------->     curl -k https://cse-f.github.io/wt/js/fib.js
+JS-Array Methods-------------->     curl -k https://cse-f.github.io/wt/js/array_methods.js
+JS-factorial------------------>     curl -k https://cse-f.github.io/wt/js/fact.js
+JS-regular Expressions-------->     curl -k https://cse-f.github.io/wt/js/regex.js
+JS-calculator----------------->     curl -k https://cse-f.github.io/wt/js/calci.js
 
-
+  
 JQUERY-EVENTS(mouseUP,Down,enter,leave,focus)---->        curl -k https://cse-f.github.io/wt/jq/1.js
 JQUERY-ACTIONS(show,hide,t)---->       curl -k https://cse-f.github.io/wt/jq/2.js
 JQUERY-SLIDEMETHODS------------>       curl -k https://cse-f.github.io/wt/jq/4.js
